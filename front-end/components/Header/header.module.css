@@ -1,0 +1,11 @@
+.container{
+    width: 100vw;
+    height:5vh;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+}
+.logoText{
+    font-weight: 800;
+    font-size: 30px;
+}
