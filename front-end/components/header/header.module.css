@@ -1,0 +1,29 @@
+.container{
+    width:100vw;
+    height:5vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.topContainer{
+    width: 20vw;
+    height:5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logoText{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 38px;
+}
+.texts{
+    width: 40vw;
+    height: 5vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
