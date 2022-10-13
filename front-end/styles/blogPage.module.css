@@ -1,11 +1,11 @@
 .container{
     width: 100vw;
-    height:50vh;
+    height:auto;
     background-color: brown;
 }
 .topContainer{
     width:35vw;
-    height:10vh;
+    height:25vh;
     display: flex;
     justify-content:center;
     flex-direction: column;
@@ -21,4 +21,10 @@
     font-weight: 600;
     font-size: 18px;
     color: #6D7D8B;
+}
+.postContainer{
+    width: 100vw;
+    height:auto;
+    display: flex;
+    flex-wrap: wrap;
 }
